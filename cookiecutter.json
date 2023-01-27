@@ -1,6 +1,3 @@
 {
-    "github_repository_name": "drfproject",
-    "email": "email@drfproject.io",
-    "description": "A simple DRF project.",
-    "github_username": "The owner of the repository. Either your github username or organization name."
+    "github_repository_name": "drfproject"
 }
